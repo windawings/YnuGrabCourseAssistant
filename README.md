@@ -4,11 +4,11 @@ Written by C# with .Net Framework 4.0</br>
 
 Can Do
 ---
-- [x]Login with via webbrowser in software</br>
+- [x] Login with via webbrowser in software</br>
 - [x] Courses list add, save and load</br>
 - [ ] Auto do select course action</br>
 - [x] Select Course only by input captcha word</br>
-- [x]Register for auto-select function</br>
+- [x] Register for auto-select function</br>
 
 Let's Start
 ---
