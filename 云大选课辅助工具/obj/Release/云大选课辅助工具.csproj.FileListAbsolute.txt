@@ -1,0 +1,16 @@
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\云大选课辅助工具.exe.config
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\云大选课辅助工具.exe
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\云大选课辅助工具.pdb
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\Newtonsoft.Json.dll
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\bin\Release\Newtonsoft.Json.xml
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.csprojResolveAssemblyReference.cache
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.FormAbout.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.FormClassEdit.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.FormMain.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.FormManual.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.FormSet.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.Properties.Resources.resources
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.csproj.GenerateResource.Cache
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.exe
+E:\GithubRepo\YnuGrabCourseAssistant\云大选课辅助工具\obj\Release\云大选课辅助工具.pdb

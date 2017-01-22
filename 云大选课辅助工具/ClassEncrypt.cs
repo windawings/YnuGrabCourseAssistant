@@ -18,8 +18,9 @@ namespace 云大选课辅助工具
         /// <summary> 加密管理.</summary>
         private static readonly RijndaelManaged RijndaelManaged = new RijndaelManaged();
 
-        /// <summary> 静态初始化构造函数.</summary>
-        /// <remarks> windawings, 11/30/2015.</remarks>
+        /// <summary>静态初始化构造函数.</summary>
+        /// <remarks>windawings, 11/30/2015.</remarks>
+
         static ClassEncrypt()
         {
             RijndaelManaged.KeySize = 256;
@@ -31,10 +32,11 @@ namespace 云大选课辅助工具
             Decrptor = RijndaelManaged.CreateDecryptor();
         }
 
-        /// <summary> 解压解密.</summary>
-        /// <remarks> windawings, 11/29/2015.</remarks>
-        /// <param name="compressBytes"> The compress in bytes.</param>
-        /// <returns> A string.</returns>
+        /// <summary>解压解密.</summary>
+        /// <remarks>windawings, 11/29/2015.</remarks>
+        /// <param name="compressBytes">The compress in bytes.</param>
+        /// <returns>A string.</returns>
+
         public static string Decrypt(byte[] compressBytes)
         {
             try
